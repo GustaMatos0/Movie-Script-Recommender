@@ -4,7 +4,7 @@
 This project aims to build a recommendation system for movies based solely on their scripts. Unlike traditional recommendation algorithms that rely on user data, this system utilizes the content of the movies to suggest similar films.
 
 ## Getting Started
-To get started, you'll need to obtain the movie scripts. Refer to the README file to find the resources for obtaining this data. Once you have the scripts, place them in a directory named "scripts" in the project directory.
+To get started, you'll need to obtain the movie scripts. Refer to the end of the README file to find the resources for obtaining this data. Once you have the scripts, place them in a directory named "scripts" in the project directory.
 
 ## Installation
 This project requires the following dependencies:
@@ -33,3 +33,14 @@ recommend(['No Country for Old Men', 'Mean Girls'])
 
 ## Conclusion
 By leveraging clustering and mathematical methods, this project demonstrates the creation of a recommendation system without relying on user data. While the algorithm works effectively, there are areas for improvement, such as recommending movies from multiple clusters and handling duplicates. Future iterations may address these issues for enhanced performance.
+
+
+Scrapper used:
+authors:
+- family-names: "Saha"
+  given-names: "Aveek"
+  orcid: "https://orcid.org/0000-0002-6112-3843"
+title: "Movie Script Database"
+version: 1.0.0
+date-released: 2021-07-05
+url: "https://github.com/Aveek-Saha/Movie-Script-Database"
