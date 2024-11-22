@@ -35,7 +35,7 @@ recommend(['No Country for Old Men', 'Mean Girls'])
 By leveraging clustering and mathematical methods, this project demonstrates the creation of a recommendation system without relying on user data. While the algorithm works effectively, there are areas for improvement, such as recommending movies from multiple clusters and handling duplicates. Future iterations may address these issues for enhanced performance.
 
 
-Scrapper used:
+Scrapper:
 authors:
 - family-names: "Saha"
   given-names: "Aveek"
